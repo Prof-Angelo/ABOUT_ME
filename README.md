@@ -1,1 +1,1 @@
-# ABOUT_ME
+Licensed by: GitHub
